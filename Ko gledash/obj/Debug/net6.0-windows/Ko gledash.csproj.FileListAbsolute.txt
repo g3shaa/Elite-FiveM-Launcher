@@ -1,0 +1,18 @@
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\bin\Debug\net6.0-windows\Ko gledash.exe
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\bin\Debug\net6.0-windows\Ko gledash.deps.json
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\bin\Debug\net6.0-windows\Ko gledash.runtimeconfig.json
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\bin\Debug\net6.0-windows\Ko gledash.dll
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\bin\Debug\net6.0-windows\Ko gledash.pdb
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko_gledash.Form1.resources
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.csproj.GenerateResource.cache
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.dll
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\refint\Ko gledash.dll
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.pdb
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko gledash.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\ref\Ko gledash.dll
+C:\Users\Geshata\Desktop\C# Projects\DeaznamBeManqk\Ko gledash\obj\Debug\net6.0-windows\Ko_gledash.Properties.Resources.resources
